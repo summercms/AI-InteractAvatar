@@ -99,13 +99,13 @@ We compare **InteractAvatar** with Reference image and 6 other SOTA methods.
     </td>
   </tr>
   <tr>
-    <td><img src="https://github.com/angzong/InteractAvatar/blob/76e7ab49e18e6709b1a601a6c92d91e1ee68c714/videos/compare_videos/ref/608_inter_handbag_0_medium_01.jpeg" width="100%"></td>
-    <td><video src="https://github.com/angzong/InteractAvatar/blob/76e7ab49e18e6709b1a601a6c92d91e1ee68c714/videos/compare_videos/ours/608_inter_handbag_0_medium_01.mp4" width="100%" autoplay loop muted playsinline></video></td>
-    <td><video src="https://github.com/angzong/InteractAvatar/blob/76e7ab49e18e6709b1a601a6c92d91e1ee68c714/videos/compare_videos/avatar/608_inter_handbag_0_medium_01.mp4" width="100%" autoplay loop muted playsinline></video></td>
-    <td><video src="https://github.com/angzong/InteractAvatar/blob/76e7ab49e18e6709b1a601a6c92d91e1ee68c714/videos/compare_videos/humo/608_inter_handbag_0_medium_01.mp4" width="100%" autoplay loop muted playsinline></video></td>
-    <td><video src="https://github.com/angzong/InteractAvatar/blob/76e7ab49e18e6709b1a601a6c92d91e1ee68c714/videos/compare_videos/fantacy/608_inter_handbag_0_medium_01.mp4" width="100%" autoplay loop muted playsinline></video></td>
-    <td><video src="https://github.com/angzong/InteractAvatar/blob/76e7ab49e18e6709b1a601a6c92d91e1ee68c714/videos/compare_videos/s2v/608_inter_handbag_0_medium_01.mp4" width="100%" autoplay loop muted playsinline></video></td>
-    <td><video src="https://github.com/angzong/InteractAvatar/blob/76e7ab49e18e6709b1a601a6c92d91e1ee68c714/videos/compare_videos/omni/608_inter_handbag_0_medium_01.mp4" width="100%" autoplay loop muted playsinline></video></td>
+    <td><img src="https://raw.githubusercontent.com/angzong/InteractAvatar/main/videos/compare_videos/ref/608_inter_handbag_0_medium_01.jpeg" width="100%"></td>
+    <td><video src="https://raw.githubusercontent.com/angzong/InteractAvatar/main/videos/compare_videos/ours/608_inter_handbag_0_medium_01.mp4" width="100%" autoplay loop muted playsinline></video></td>
+    <td><video src="https://raw.githubusercontent.com/angzong/InteractAvatar/main/videos/compare_videos/avatar/608_inter_handbag_0_medium_01.mp4" width="100%" autoplay loop muted playsinline></video></td>
+    <td><video src="https://raw.githubusercontent.com/angzong/InteractAvatar/main/videos/compare_videos/humo/608_inter_handbag_0_medium_01.mp4" width="100%" autoplay loop muted playsinline></video></td>
+    <td><video src="https://raw.githubusercontent.com/angzong/InteractAvatar/main/videos/compare_videos/fantacy/608_inter_handbag_0_medium_01.mp4" width="100%" autoplay loop muted playsinline></video></td>
+    <td><video src="https://raw.githubusercontent.com/angzong/InteractAvatar/main/videos/compare_videos/s2v/608_inter_handbag_0_medium_01.mp4" width="100%" autoplay loop muted playsinline></video></td>
+    <td><video src="https://raw.githubusercontent.com/angzong/InteractAvatar/main/videos/compare_videos/omni/608_inter_handbag_0_medium_01.mp4" width="100%" autoplay loop muted playsinline></video></td>
   </tr>
 
   <!-- ================= CASE 2: Rose ================= -->
@@ -115,13 +115,13 @@ We compare **InteractAvatar** with Reference image and 6 other SOTA methods.
     </td>
   </tr>
   <tr>
-    <td><img src="https://github.com/angzong/InteractAvatar/blob/76e7ab49e18e6709b1a601a6c92d91e1ee68c714/videos/compare_videos/ref/316_inter_rose_3_medium_02.jpeg" width="100%"></td>
-    <td><video src="https://github.com/angzong/InteractAvatar/blob/76e7ab49e18e6709b1a601a6c92d91e1ee68c714/videos/compare_videos/ours/316_inter_rose_3_medium_02.mp4" width="100%" autoplay loop muted playsinline></video></td>
-    <td><video src="https://github.com/angzong/InteractAvatar/blob/76e7ab49e18e6709b1a601a6c92d91e1ee68c714/videos/compare_videos/avatar/316_inter_rose_3_medium_02.mp4" width="100%" autoplay loop muted playsinline></video></td>
-    <td><video src="https://github.com/angzong/InteractAvatar/blob/76e7ab49e18e6709b1a601a6c92d91e1ee68c714/videos/compare_videos/humo/316_inter_rose_3_medium_02.mp4" width="100%" autoplay loop muted playsinline></video></td>
-    <td><video src="https://github.com/angzong/InteractAvatar/blob/76e7ab49e18e6709b1a601a6c92d91e1ee68c714/videos/compare_videos/fantacy/316_inter_rose_3_medium_02.mp4" width="100%" autoplay loop muted playsinline></video></td>
-    <td><video src="https://github.com/angzong/InteractAvatar/blob/76e7ab49e18e6709b1a601a6c92d91e1ee68c714/videos/compare_videos/s2v/316_inter_rose_3_medium_02.mp4" width="100%" autoplay loop muted playsinline></video></td>
-    <td><video src="https://github.com/angzong/InteractAvatar/blob/76e7ab49e18e6709b1a601a6c92d91e1ee68c714/videos/compare_videos/omni/316_inter_rose_3_medium_02.mp4" width="100%" autoplay loop muted playsinline></video></td>
+    <td><img src="https://raw.githubusercontent.com/angzong/InteractAvatar/main/videos/compare_videos/ref/316_inter_rose_3_medium_02.jpeg" width="100%"></td>
+    <td><video src="https://raw.githubusercontent.com/angzong/InteractAvatar/main/videos/compare_videos/ours/316_inter_rose_3_medium_02.mp4" width="100%" autoplay loop muted playsinline></video></td>
+    <td><video src="https://raw.githubusercontent.com/angzong/InteractAvatar/main/videos/compare_videos/avatar/316_inter_rose_3_medium_02.mp4" width="100%" autoplay loop muted playsinline></video></td>
+    <td><video src="https://raw.githubusercontent.com/angzong/InteractAvatar/main/videos/compare_videos/humo/316_inter_rose_3_medium_02.mp4" width="100%" autoplay loop muted playsinline></video></td>
+    <td><video src="https://raw.githubusercontent.com/angzong/InteractAvatar/main/videos/compare_videos/fantacy/316_inter_rose_3_medium_02.mp4" width="100%" autoplay loop muted playsinline></video></td>
+    <td><video src="https://raw.githubusercontent.com/angzong/InteractAvatar/main/videos/compare_videos/s2v/316_inter_rose_3_medium_02.mp4" width="100%" autoplay loop muted playsinline></video></td>
+    <td><video src="https://raw.githubusercontent.com/angzong/InteractAvatar/main/videos/compare_videos/omni/316_inter_rose_3_medium_02.mp4" width="100%" autoplay loop muted playsinline></video></td>
   </tr>
 
   <!-- ================= CASE 3: Makeup ================= -->
@@ -131,13 +131,13 @@ We compare **InteractAvatar** with Reference image and 6 other SOTA methods.
     </td>
   </tr>
   <tr>
-    <td><img src="https://github.com/angzong/InteractAvatar/blob/76e7ab49e18e6709b1a601a6c92d91e1ee68c714/videos/compare_videos/ref/364_inter_makeup brush_0_medium_02.jpeg" width="100%"></td>
-    <td><video src="https://github.com/angzong/InteractAvatar/blob/76e7ab49e18e6709b1a601a6c92d91e1ee68c714/videos/compare_videos/ours/364_inter_makeup brush_0_medium_02.mp4" width="100%" autoplay loop muted playsinline></video></td>
-    <td><video src="https://github.com/angzong/InteractAvatar/blob/76e7ab49e18e6709b1a601a6c92d91e1ee68c714/videos/compare_videos/avatar/364_inter_makeup brush_0_medium_02.mp4" width="100%" autoplay loop muted playsinline></video></td>
-    <td><video src="https://github.com/angzong/InteractAvatar/blob/76e7ab49e18e6709b1a601a6c92d91e1ee68c714/videos/compare_videos/humo/364_inter_makeup brush_0_medium_02.mp4" width="100%" autoplay loop muted playsinline></video></td>
-    <td><video src="https://github.com/angzong/InteractAvatar/blob/76e7ab49e18e6709b1a601a6c92d91e1ee68c714/videos/compare_videos/fantacy/364_inter_makeup brush_0_medium_02.mp4" width="100%" autoplay loop muted playsinline></video></td>
-    <td><video src="https://github.com/angzong/InteractAvatar/blob/76e7ab49e18e6709b1a601a6c92d91e1ee68c714/videos/compare_videos/s2v/364_inter_makeup brush_0_medium_02.mp4" width="100%" autoplay loop muted playsinline></video></td>
-    <td><video src="https://github.com/angzong/InteractAvatar/blob/76e7ab49e18e6709b1a601a6c92d91e1ee68c714/videos/compare_videos/omni/364_inter_makeup brush_0_medium_02.mp4" width="100%" autoplay loop muted playsinline></video></td>
+    <td><img src="https://raw.githubusercontent.com/angzong/InteractAvatar/main/videos/compare_videos/ref/364_inter_makeup brush_0_medium_02.jpeg" width="100%"></td>
+    <td><video src="https://raw.githubusercontent.com/angzong/InteractAvatar/main/videos/compare_videos/ours/364_inter_makeup brush_0_medium_02.mp4" width="100%" autoplay loop muted playsinline></video></td>
+    <td><video src="https://raw.githubusercontent.com/angzong/InteractAvatar/main/videos/compare_videos/avatar/364_inter_makeup brush_0_medium_02.mp4" width="100%" autoplay loop muted playsinline></video></td>
+    <td><video src="https://raw.githubusercontent.com/angzong/InteractAvatar/main/videos/compare_videos/humo/364_inter_makeup brush_0_medium_02.mp4" width="100%" autoplay loop muted playsinline></video></td>
+    <td><video src="https://raw.githubusercontent.com/angzong/InteractAvatar/main/videos/compare_videos/fantacy/364_inter_makeup brush_0_medium_02.mp4" width="100%" autoplay loop muted playsinline></video></td>
+    <td><video src="https://raw.githubusercontent.com/angzong/InteractAvatar/main/videos/compare_videos/s2v/364_inter_makeup brush_0_medium_02.mp4" width="100%" autoplay loop muted playsinline></video></td>
+    <td><video src="https://raw.githubusercontent.com/angzong/InteractAvatar/main/videos/compare_videos/omni/364_inter_makeup brush_0_medium_02.mp4" width="100%" autoplay loop muted playsinline></video></td>
   </tr>
 
   <!-- ================= CASE 4: Vase ================= -->
@@ -147,13 +147,13 @@ We compare **InteractAvatar** with Reference image and 6 other SOTA methods.
     </td>
   </tr>
   <tr>
-    <td><img src="https://github.com/angzong/InteractAvatar/blob/76e7ab49e18e6709b1a601a6c92d91e1ee68c714/videos/compare_videos/ref/501_inter_vase_1_medium_01.jpeg" width="100%"></td>
-    <td><video src="https://github.com/angzong/InteractAvatar/blob/76e7ab49e18e6709b1a601a6c92d91e1ee68c714/videos/compare_videos/ours/501_inter_vase_1_medium_01.mp4" width="100%" autoplay loop muted playsinline></video></td>
-    <td><video src="https://github.com/angzong/InteractAvatar/blob/76e7ab49e18e6709b1a601a6c92d91e1ee68c714/videos/compare_videos/avatar/501_inter_vase_1_medium_01.mp4" width="100%" autoplay loop muted playsinline></video></td>
-    <td><video src="https://github.com/angzong/InteractAvatar/blob/76e7ab49e18e6709b1a601a6c92d91e1ee68c714/videos/compare_videos/humo/501_inter_vase_1_medium_01.mp4" width="100%" autoplay loop muted playsinline></video></td>
-    <td><video src="https://github.com/angzong/InteractAvatar/blob/76e7ab49e18e6709b1a601a6c92d91e1ee68c714/videos/compare_videos/fantacy/501_inter_vase_1_medium_01.mp4" width="100%" autoplay loop muted playsinline></video></td>
-    <td><video src="https://github.com/angzong/InteractAvatar/blob/76e7ab49e18e6709b1a601a6c92d91e1ee68c714/videos/compare_videos/s2v/501_inter_vase_1_medium_01.mp4" width="100%" autoplay loop muted playsinline></video></td>
-    <td><video src="https://github.com/angzong/InteractAvatar/blob/76e7ab49e18e6709b1a601a6c92d91e1ee68c714/videos/compare_videos/omni/501_inter_vase_1_medium_01.mp4" width="100%" autoplay loop muted playsinline></video></td>
+    <td><img src="https://raw.githubusercontent.com/angzong/InteractAvatar/main/videos/compare_videos/ref/501_inter_vase_1_medium_01.jpeg" width="100%"></td>
+    <td><video src="https://raw.githubusercontent.com/angzong/InteractAvatar/main/videos/compare_videos/ours/501_inter_vase_1_medium_01.mp4" width="100%" autoplay loop muted playsinline></video></td>
+    <td><video src="https://raw.githubusercontent.com/angzong/InteractAvatar/main/videos/compare_videos/avatar/501_inter_vase_1_medium_01.mp4" width="100%" autoplay loop muted playsinline></video></td>
+    <td><video src="https://raw.githubusercontent.com/angzong/InteractAvatar/main/videos/compare_videos/humo/501_inter_vase_1_medium_01.mp4" width="100%" autoplay loop muted playsinline></video></td>
+    <td><video src="https://raw.githubusercontent.com/angzong/InteractAvatar/main/videos/compare_videos/fantacy/501_inter_vase_1_medium_01.mp4" width="100%" autoplay loop muted playsinline></video></td>
+    <td><video src="https://raw.githubusercontent.com/angzong/InteractAvatar/main/videos/compare_videos/s2v/501_inter_vase_1_medium_01.mp4" width="100%" autoplay loop muted playsinline></video></td>
+    <td><video src="https://raw.githubusercontent.com/angzong/InteractAvatar/main/videos/compare_videos/omni/501_inter_vase_1_medium_01.mp4" width="100%" autoplay loop muted playsinline></video></td>
   </tr>
 
 </table>
@@ -167,7 +167,7 @@ InteractAvatar can understand spatial relationships (Multi-Object) and follow se
 
 | **Pick up apple** | **Pick up headphones** | **Touch flower & Pick hat** | **Pick up bag & Stand** |
 | :---: | :---: | :---: | :---: |
-| <video src="https://github.com/angzong/InteractAvatar/blob/76e7ab49e18e6709b1a601a6c92d91e1ee68c714/videos/multi-object/139_inter_apple_0_medium_02.mp4" width="100%" autoplay loop muted playsinline></video> | <video src="https://github.com/angzong/InteractAvatar/blob/76e7ab49e18e6709b1a601a6c92d91e1ee68c714/videos/multi-object/145_inter_headphone_0_medium_01.mp4" width="100%" autoplay loop muted playsinline></video> | <video src="https://github.com/angzong/InteractAvatar/blob/76e7ab49e18e6709b1a601a6c92d91e1ee68c714/videos/multi-interaction/163_inter_hat_0_medium_02.mp4" width="100%" autoplay loop muted playsinline></video> | <video src="https://github.com/angzong/InteractAvatar/blob/76e7ab49e18e6709b1a601a6c92d91e1ee68c714/videos/multi-interaction/238_inter_handbag_1_medium_02.mp4" width="100%" autoplay loop muted playsinline></video> |
+| <video src="https://raw.githubusercontent.com/angzong/InteractAvatar/main/videos/multi-object/139_inter_apple_0_medium_02.mp4" width="100%" autoplay loop muted playsinline></video> | <video src="https://raw.githubusercontent.com/angzong/InteractAvatar/main/videos/multi-object/145_inter_headphone_0_medium_01.mp4" width="100%" autoplay loop muted playsinline></video> | <video src="https://raw.githubusercontent.com/angzong/InteractAvatar/main/videos/multi-interaction/163_inter_hat_0_medium_02.mp4" width="100%" autoplay loop muted playsinline></video> | <video src="https://raw.githubusercontent.com/angzong/InteractAvatar/main/videos/multi-interaction/238_inter_handbag_1_medium_02.mp4" width="100%" autoplay loop muted playsinline></video> |
 | *"Pick up the apple from the table with one hand..."* | *"Pick up the headphones with both hands..."* | *"First touch flower, then extend one hand to pick up the hat..."* | *"First pick up the bag, then stand up and hold it..."* |
 
 ### Song-Driven & Long Video Generation
@@ -176,7 +176,7 @@ Our model maintains identity consistency and lip-sync even in long videos and si
 
 | **Song: Heart Shape** | **Song: Cheer & Pose** | **Long: Apple Sequence** | **Long: Cooking Pot** |
 | :---: | :---: | :---: | :---: |
-| <video src="https://github.com/angzong/InteractAvatar/blob/76e7ab49e18e6709b1a601a6c92d91e1ee68c714/videos/song/2003_inter_None_3_interactive_02_64.mp4" width="100%" autoplay loop muted playsinline></video> | <video src="https://github.com/angzong/InteractAvatar/blob/76e7ab49e18e6709b1a601a6c92d91e1ee68c714/videos/song/2004_inter_None_8_interactive_02_114.mp4" width="100%" autoplay loop muted playsinline></video> | <video src="https://github.com/angzong/InteractAvatar/blob/76e7ab49e18e6709b1a601a6c92d91e1ee68c714/videos/long_audio/194_inter_apple_2_medium_02_3.mp4" width="100%" autoplay loop muted playsinline></video> | <video src="https://github.com/angzong/InteractAvatar/blob/76e7ab49e18e6709b1a601a6c92d91e1ee68c714/videos/long_audio/240_inter_cooking pot_1_medium_01.mp4" width="100%" autoplay loop muted playsinline></video> |
+| <video src="https://raw.githubusercontent.com/angzong/InteractAvatar/main/videos/song/2003_inter_None_3_interactive_02_64.mp4" width="100%" autoplay loop muted playsinline></video> | <video src="https://raw.githubusercontent.com/angzong/InteractAvatar/main/videos/song/2004_inter_None_8_interactive_02_114.mp4" width="100%" autoplay loop muted playsinline></video> | <video src="https://raw.githubusercontent.com/angzong/InteractAvatar/main/videos/long_audio/194_inter_apple_2_medium_02_3.mp4" width="100%" autoplay loop muted playsinline></video> | <video src="https://raw.githubusercontent.com/angzong/InteractAvatar/main/videos/long_audio/240_inter_cooking pot_1_medium_01.mp4" width="100%" autoplay loop muted playsinline></video> |
 | *Singing: "...Make a heart shape... Put your palms together..."* | *Singing: "...Clench your fists... One hand resting on your chin."* | *Segmented: Touch apple -> Move apple -> Pick up apple* | *Segmented: Show pot -> Hold pot with both hands & walk* |
 
 
