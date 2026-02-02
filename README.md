@@ -27,9 +27,9 @@
 ## 📑 Open-source Plan
 
 - [x] Paper and Project Page
-- [ ] Inference code
-- [ ] Pretrained Checkpoints (Initialised from Wan2.2-5B)
-- [ ] **GroundedInter** Benchmark Data
+- [x] Inference code
+- [x] Pretrained Checkpoints (Initialised from Wan2.2-5B)
+- [x] **GroundedInter** Benchmark Data
 
 ## 📋 Table of Contents
 
@@ -106,6 +106,7 @@ We evaluate on our proposed **GroundedInter** benchmark (400 images, 100+ object
 | **InteractAvatar-long** | InteractAvatar support for long video generation | [🤗 Huggingface](https://huggingface.co/youliang1233214/InteractAvatar/tree/main/interact-avatar-long) |
 | **Wav2Vec 2.0** | Audio Feature Extractor | [🤗 Huggingface](https://huggingface.co/youliang1233214/InteractAvatar/tree/main/wav2vec2-base) |
 | **Wan2.2-TI2V-5B** | Pretrained Video Model| [🤗 Huggingface](https://huggingface.co/Wan-AI/Wan2.2-TI2V-5B) |
+| **GroundedInter** | GHOI-benchmark| [🤗 Huggingface](https://huggingface.co/youliang1233214/GroundedInter) |
 
 Place the weights in the `./ckpt` directory.
 
