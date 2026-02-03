@@ -11,7 +11,7 @@
 <div align="center">
   <a href="https://github.com/angzong/InteractAvatar"><img src="https://img.shields.io/static/v1?label=InteractAvatar%20Code&message=Github&color=blue"></a> &ensp;
   <a href="https://interactavatar.github.io/"><img src="https://img.shields.io/static/v1?label=Project%20Page&message=Web&color=green"></a> &ensp;
-  <a href="#"><img src="https://img.shields.io/badge/ArXiv-2026.3155-red"></a> &ensp;
+  <a href="https://arxiv.org/abs/2602.01538"><img src="https://img.shields.io/badge/ArXiv-2602.01538-red"></a> &ensp;
   <a href="https://huggingface.co/youliang1233214/InteractAvatar"><img src="https://img.shields.io/badge/🤗%20HuggingFace-Model-yellow"></a>
 </div>
 
