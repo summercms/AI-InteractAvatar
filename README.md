@@ -135,7 +135,7 @@ If you find **InteractAvatar** useful for your research, please cite our paper:
 ```bibtex
 @article{zhang2026making,
   title={Making Avatars Interact: Towards Text-Driven Human-Object Interaction for Controllable Talking Avatars},
-  author={Zhang, Youliang and Zhou, Zhengguang and Yu, Zhentao and Huang, Ziyao and Hu, Teng and Liang, Sen and Zhang, Guozhen and Peng, Ziqiao and Li, Shunkai and Chen, Yi and Zhou, Zixiang and Zhou, Yuan and Lu, Qinglin and Li, Xiu},
+  author={Zhang, Youliang and Zhou, Zhengguang and Yu, Zhentao and Huang, Ziyao and Hu, Teng and Liang, Sen and Zhang, Guozhen and Peng, Ziqiao and Li, Shunkai and Chen, Yi and others},
   journal={arXiv preprint arXiv:2602.01538},
   year={2026}
 }
